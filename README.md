@@ -24,7 +24,7 @@ The **Gmail Variations Generator** is a Python script for generating all possibl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/gmail-variations-generator.git
+   git clone https://github.com/balu100/gmail-variations-generator.git
    cd gmail-variations-generator
    ```
 
@@ -39,7 +39,7 @@ The **Gmail Variations Generator** is a Python script for generating all possibl
 Run the script from your terminal:
 
 ```bash
-python script.py
+python gvg.py
 ```
 
 The script will prompt for the following inputs:
@@ -59,7 +59,7 @@ How many plus suffix variations do you want to generate? 50
 ### Example Command:
 
 ```bash
-python script.py
+python gvg.py
 ```
 
 ---
@@ -102,7 +102,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ## Author
 
-Created by [Your Name](https://github.com/yourusername).
+Created by [Your Name](https://github.com/balu100).
 
 ---
 
